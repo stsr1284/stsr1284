@@ -1,5 +1,7 @@
+
 ## Hi there 👋
 
+![42stats](https://badge.mediaplus.ma/darkblue/donghakl?1337Badge=off&UM6P=off)
 <!--
 **stsr1284/stsr1284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
