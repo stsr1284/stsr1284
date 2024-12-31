@@ -1,3 +1,4 @@
+eamil: 1599zzang@gmail.com
 ![42stats](https://badge.mediaplus.ma/darkblue/donghakl?1337Badge=off&UM6P=off)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=donghakl)](https://solved.ac/donghakl)
